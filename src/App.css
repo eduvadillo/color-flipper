@@ -1,0 +1,25 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.App h1 {
+  font-size: 6rem;
+  margin-bottom: 0;
+}
+
+.App h6 {
+  position: absolute;
+  top: 30%;
+}
+
+.App button {
+  width: 23rem;
+  height: 3rem;
+  border-radius: 10px;
+  font-size: 2rem;
+}
