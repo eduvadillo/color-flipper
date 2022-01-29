@@ -1,6 +1,6 @@
 # Color-flipper
 
-[Live version 🖥](https://dialog-design-system.netlify.app/)
+[Live version 🖥](https://color-flipper-ev.netlify.app/)
 
 ## Resumen
 
